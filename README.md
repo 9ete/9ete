@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I build things online.
+I build things, contribute to open source projects, and play guitar.
+
+I'm currently working with Laravel and WordPress.
 
 <!--
 **9ete/9ete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
